@@ -1,0 +1,24 @@
+{
+  "id": "pf2e-sar-dreams-of-the-yellow-king",
+  "title": "PF2e Strange Aeons Redux: Dreams of the Yellow King",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "description": "Sail the Sellen in Book 3 of Strange Aeons for Pathfinder Second Edition!",
+  "packs": [
+    {
+      "name": "dreams-of-the-yellow-king",
+      "label": "Dreams of the Yellow King",
+      "path": "packs/dreams-of-the-yellow-king",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
